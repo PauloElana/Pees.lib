@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pees.lib", "Pees.lib.csproj", "{99920594-F675-4641-A7E7-9B171391C39E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pees.AppWin", "..\Pees.AppWin\Pees.AppWin.csproj", "{D5444EB4-D6CD-42A6-9344-1368506F57A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99920594-F675-4641-A7E7-9B171391C39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99920594-F675-4641-A7E7-9B171391C39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99920594-F675-4641-A7E7-9B171391C39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99920594-F675-4641-A7E7-9B171391C39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5444EB4-D6CD-42A6-9344-1368506F57A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5444EB4-D6CD-42A6-9344-1368506F57A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5444EB4-D6CD-42A6-9344-1368506F57A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5444EB4-D6CD-42A6-9344-1368506F57A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD0AC7EE-0041-43B2-AC6E-6F6984A57956}
+	EndGlobalSection
+EndGlobal

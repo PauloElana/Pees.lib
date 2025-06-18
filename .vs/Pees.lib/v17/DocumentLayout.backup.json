@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\source\\repos\\Pees.lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5444EB4-D6CD-42A6-9344-1368506F57A3}|..\\Pees.AppWin\\Pees.AppWin.csproj|c:\\users\\paulo\\source\\repos\\pees.appwin\\frmproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5444EB4-D6CD-42A6-9344-1368506F57A3}|..\\Pees.AppWin\\Pees.AppWin.csproj|c:\\users\\paulo\\source\\repos\\pees.appwin\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Pees.AppWin\\FrmProduto.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Pees.AppWin\\FrmProduto.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Pees.AppWin\\FrmProduto.Designer.cs",
+              "RelativeToolTip": "..\\Pees.AppWin\\FrmProduto.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:48:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Pees.AppWin\\FrmProduto.cs",
+              "RelativeDocumentMoniker": "..\\Pees.AppWin\\FrmProduto.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Pees.AppWin\\FrmProduto.cs [Design]",
+              "RelativeToolTip": "..\\Pees.AppWin\\FrmProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:48:39.539Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
